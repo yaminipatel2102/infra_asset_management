@@ -1,3 +1,7 @@
+** VIDEO LINK
+https://drive.google.com/file/d/1UOReCdDlniRM6OdewuZXTgdPHn-N_YDh/view?usp=sharing
+
+
 # R&B Asset Lifecycle Management System
 > **Roads & Buildings (R&B) Department - Government of Gujarat**
 > Real-Time End-to-End Infrastructure Asset Inventory, Digital Asset Passport, Explainable Risk Assessment Engine, Inspection & Work Order Management System.
